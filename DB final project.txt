@@ -1,0 +1,7 @@
+DB final Project in 4th Semester
+
+- create user sharifDB identified by password;
+
+- grant create session to sharifDB;
+
+- grant unlimited userspace to sharifDB;
